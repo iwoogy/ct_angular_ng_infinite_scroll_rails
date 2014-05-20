@@ -1,0 +1,10 @@
+---
+module:
+  name: "infinite-scroll"
+uis: 
+  - name: infinite-scroll
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
